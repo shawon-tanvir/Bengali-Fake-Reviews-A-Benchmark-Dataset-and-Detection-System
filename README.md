@@ -24,7 +24,7 @@ Each file contains two columns: **Review** (collected raw reviews), **Label** (a
 
 - Fleiss' Kappa Score: 0.83
 
-## Number of Taotal Data
+## Number of Total Data
 
 - Fake - 1339
 - Non-fake - 7710
